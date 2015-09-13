@@ -6,6 +6,14 @@ button {
 	margin-top: 10px;
 }
 
-body {
-	background-color: lightblue;
+.green-background {
+	background-color: green;
+}
+
+.yellow-background {
+	background-color: yellow;
+}
+
+.red-background {
+	background-color: red;
 }
